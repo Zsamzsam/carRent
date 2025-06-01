@@ -1,0 +1,27 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "mysql"
+  url      = env("DATABASE_URL")
+}
+
+model cars {
+  id                   Int    @id @default(autoincrement()) 
+  license_plate_number String?   @db.VarChar(20)
+  brand                String?   @db.VarChar(255)
+  model                String?   @db.VarChar(255)
+  daily_cost           Int?
+  created_at           DateTime? @db.Timestamp(0)
+  updated_at           DateTime? @db.Timestamp(0)
+  rentals rentals[]
+}
+
+model rentals{
+  id Int @id @default(autoincrement())
+  car_id Int
+  cars cars @relation(references: [id], fields: [car_id])
+  strat_date DateTime
+  end_date DateTime
+}
