@@ -1,0 +1,112 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kaitou\\Documents\\autokolcsonzo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{979D9382-83AE-4EE1-8731-5F378EB528C0}|autokolcsonzo\\autokolcsonzo.csproj|c:\\users\\kaitou\\documents\\autokolcsonzo\\autokolcsonzo\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{979D9382-83AE-4EE1-8731-5F378EB528C0}|autokolcsonzo\\autokolcsonzo.csproj|solutionrelative:autokolcsonzo\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{979D9382-83AE-4EE1-8731-5F378EB528C0}|autokolcsonzo\\autokolcsonzo.csproj|c:\\users\\kaitou\\documents\\autokolcsonzo\\autokolcsonzo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{979D9382-83AE-4EE1-8731-5F378EB528C0}|autokolcsonzo\\autokolcsonzo.csproj|solutionrelative:autokolcsonzo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{979D9382-83AE-4EE1-8731-5F378EB528C0}|autokolcsonzo\\autokolcsonzo.csproj|c:\\users\\kaitou\\documents\\autokolcsonzo\\autokolcsonzo\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{979D9382-83AE-4EE1-8731-5F378EB528C0}|autokolcsonzo\\autokolcsonzo.csproj|solutionrelative:autokolcsonzo\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{979D9382-83AE-4EE1-8731-5F378EB528C0}|autokolcsonzo\\autokolcsonzo.csproj|c:\\users\\kaitou\\documents\\autokolcsonzo\\autokolcsonzo\\statisztika.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{979D9382-83AE-4EE1-8731-5F378EB528C0}|autokolcsonzo\\autokolcsonzo.csproj|solutionrelative:autokolcsonzo\\statisztika.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{979D9382-83AE-4EE1-8731-5F378EB528C0}|autokolcsonzo\\autokolcsonzo.csproj|c:\\users\\kaitou\\documents\\autokolcsonzo\\autokolcsonzo\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{979D9382-83AE-4EE1-8731-5F378EB528C0}|autokolcsonzo\\autokolcsonzo.csproj|solutionrelative:autokolcsonzo\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Statisztika.cs",
+              "DocumentMoniker": "C:\\Users\\Kaitou\\Documents\\autokolcsonzo\\autokolcsonzo\\Statisztika.cs",
+              "RelativeDocumentMoniker": "autokolcsonzo\\Statisztika.cs",
+              "ToolTip": "C:\\Users\\Kaitou\\Documents\\autokolcsonzo\\autokolcsonzo\\Statisztika.cs",
+              "RelativeToolTip": "autokolcsonzo\\Statisztika.cs",
+              "ViewState": "AgIAAI8AAAAAAAAAAAAAAKEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T13:59:53.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\Kaitou\\Documents\\autokolcsonzo\\autokolcsonzo\\Car.cs",
+              "RelativeDocumentMoniker": "autokolcsonzo\\Car.cs",
+              "ToolTip": "C:\\Users\\Kaitou\\Documents\\autokolcsonzo\\autokolcsonzo\\Car.cs",
+              "RelativeToolTip": "autokolcsonzo\\Car.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T13:56:27.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kaitou\\Documents\\autokolcsonzo\\autokolcsonzo\\Program.cs",
+              "RelativeDocumentMoniker": "autokolcsonzo\\Program.cs",
+              "ToolTip": "C:\\Users\\Kaitou\\Documents\\autokolcsonzo\\autokolcsonzo\\Program.cs",
+              "RelativeToolTip": "autokolcsonzo\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAADwvxkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T13:47:22.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Kaitou\\Documents\\autokolcsonzo\\autokolcsonzo\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "autokolcsonzo\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Kaitou\\Documents\\autokolcsonzo\\autokolcsonzo\\MainWindow.xaml",
+              "RelativeToolTip": "autokolcsonzo\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-01T13:46:59.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Kaitou\\Documents\\autokolcsonzo\\autokolcsonzo\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "autokolcsonzo\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Kaitou\\Documents\\autokolcsonzo\\autokolcsonzo\\MainWindow.xaml.cs",
+              "RelativeToolTip": "autokolcsonzo\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T13:46:56.717Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

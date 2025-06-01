@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "autokolcsonzo": {
+      "commandName": "Project"
+    },
+    "autokolcsonzoConsole": {
+      "commandName": "Project",
+      "commandLineArgs": "--stat"
+    }
+  }
+}
